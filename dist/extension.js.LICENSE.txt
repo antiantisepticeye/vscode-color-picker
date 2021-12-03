@@ -1,0 +1,6 @@
+/**
+ * parse-css-color
+ * @version v0.1.2
+ * @link http://github.com/noeldelgado/parse-css-color/
+ * @license MIT
+ */
