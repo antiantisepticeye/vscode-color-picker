@@ -17,13 +17,16 @@ A simple Color picker for vscode that lets you use vscode's css color picker in 
  
 ## Frequently Asked Questions
 
+
 ### How do i stop it from running in languages i don't want it in?
 
 Just remove the language entry from `vscode-color-picker.languages` in settings.json.
 
+
 ### What are the languages i can add to the extension?
 
 A list of VSCode's language identefiers is avaialable [here](https://code.visualstudio.com/docs/languages/identifiers).
+
 
 ### What types of strings are recognized colors?
 
