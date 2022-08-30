@@ -13,7 +13,7 @@ A simple Color picker for vscode that lets you use vscode's css color picker in 
     ],
     ...
   ```
- and then make sure to reload the window for the service to be intialized properly.
+ and then make sure to reload the window for the service to be initialized properly.
  
 ## Frequently Asked Questions
 
@@ -25,7 +25,7 @@ Just remove the language entry from `vscode-color-picker.languages` in settings.
 
 ### What are the languages i can add to the extension?
 
-A list of VSCode's language identefiers is avaialable [here](https://code.visualstudio.com/docs/languages/identifiers).
+A list of VSCode's language identifiers is available [here](https://code.visualstudio.com/docs/languages/identifiers).
 
 
 ### What types of strings are recognized colors?
@@ -48,5 +48,3 @@ Example of Hex format: `#00ffff`
 
 Format for Hexa: `#<hexa-code>`
 Example of Hexa format: `#00ffff77`
-
- 
