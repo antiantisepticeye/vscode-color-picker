@@ -45,7 +45,7 @@ function getPos(text: string, index: number): vscode.Position {
 
 	const lineNumber = nMatches.length;
 
-	const characterIndex = index - nMatches[lineNumber-1].index;
+	const characterIndex = index - (nMatches[lineNumber-1]?.index ?? -1);
 	
 
 	return new vscode.Position(
